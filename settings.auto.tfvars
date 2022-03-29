@@ -3,7 +3,7 @@ region = "us-east-1"
 # Your role_arn is the terraformRole you create via CLI
 role_arn = "arn:aws:iam::637343816414:role/terraformRole"
 # Change to your project name
-name        = "benmoody-sandbox-devops-boilerplate"
+name        = "bmoody-devops-sandbox"
 namespace   = "jam3"
 environment = "dev"
 
