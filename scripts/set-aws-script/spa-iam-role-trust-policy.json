@@ -1,10 +1,10 @@
 {
-  "Version": "2012-10-17",
-  "Statement": {
-    "Effect": "Allow",
-    "Principal": {
-      "AWS": "arn:aws:iam::637343816414:user/terraform"
-    },
-    "Action": "sts:AssumeRole"
-  }
+    "Version": "2012-10-17",
+    "Statement": {
+        "Effect": "Allow",
+        "Principal": { 
+            "AWS": "arn:aws:iam::637343816414:user/terraform"
+        },
+        "Action": "sts:AssumeRole"
+    }
 }
